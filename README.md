@@ -62,9 +62,6 @@ To enhance the performance and usability of the model, the following improvement
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute the code, provided that the original author is credited.
 
-> **MIT License Summary**:  
-> A short and permissive license that allows reuse within proprietary software, as long as the license is distributed with that software.
-
 ---
 
 ## 🙋‍♀️ Author
