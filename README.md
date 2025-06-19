@@ -28,11 +28,6 @@ We used a **Convolutional Neural Network (CNN)** to perform binary classificatio
 - Training and evaluating the model
 
 ---
-# 🍎🥕 Fruit and Vegetable Image Classification
-
-This project focuses on building a machine learning model that classifies an image as either a **fruit** or a **vegetable**. It uses a Convolutional Neural Network (CNN) trained on the **Fruit and Vegetable Image Recognition Dataset** from Kaggle.
-
----
 
 ## 📊 Precision
 
